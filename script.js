@@ -10,7 +10,7 @@
   If your sheet is already publicly readable, you can also use:
   https://docs.google.com/spreadsheets/d/SHEET_ID/gviz/tq?tqx=out:csv&gid=GID
 */
-const SHEET_CSV_URL = "PASTE_YOUR_GOOGLE_SHEET_CSV_URL_HERE";
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/1wLHcGrc2Z9nkXMYa0JcjxLE-NTXgeiKiW4UJ1m_fCtg/export?format=csv&gid=0&utm_source=chatgpt.com";
 
 const BENCHMARK = 4.3;
 const LAST_N_WEEKS = 5;
